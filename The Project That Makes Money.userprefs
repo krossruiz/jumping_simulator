@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Prefabs\Platforms\Spawner\PlatformSpawnerController.cs">
+    <Files>
+      <File FileName="Assets\Prefabs\Platforms\Spawner\PlatformSpawnerController.cs" Line="37" Column="29" />
+      <File FileName="Assets\Prefabs\Platforms\Platform.cs" Line="18" Column="3" />
+      <File FileName="Assets\Scripts\Score\ScoreController.cs" Line="23" Column="20" />
+      <File FileName="Assets\Prefabs\Characters\KangarooController.cs" Line="7" Column="32" />
+      <File FileName="Assets\Scripts\Global Controls\WorldPhysics.cs" Line="7" Column="24" />
+      <File FileName="Assets\Scripts\Input Controller\InputController.cs" Line="16" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 10265f3f613e62043bc0d52e18b0e89f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - small_platform_prefab: {fileID: 1168343421420368, guid: b009f240aef25c047b6110c4cef07651,
+      type: 2}
+  - medium_platform_prefab: {fileID: 1089700522206864, guid: df2614b73de198f48a0017f35722b07b,
+      type: 2}
+  - large_platform_prefab: {fileID: 1731140642446032, guid: 8086b4e33499737478169b9b0d225b69,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
