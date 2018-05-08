@@ -51,7 +51,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Prefabs\Characters\Kangaroo\KangarooController.cs" />
      <Compile Include="Assets\Prefabs\Characters\Ted\Foot Collider\FootCollider.cs" />
      <Compile Include="Assets\Prefabs\Characters\Ted\Head Collider\HeadCollider.cs" />
      <Compile Include="Assets\Prefabs\Characters\Ted\TedController.cs" />

@@ -25,6 +25,7 @@ public class TedController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		rb.AddForce(new Vector3(0,1,0));
 	}
 
 	public void ResetJumpState(){

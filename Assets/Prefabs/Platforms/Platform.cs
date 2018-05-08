@@ -16,8 +16,8 @@ public class Platform : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		rb.velocity = velocity;
-		//transform.Translate (velocity*Time.deltaTime);
+		//rb.velocity = velocity;
+		transform.Translate (velocity*Time.deltaTime);
 	}
 
 	void destroyPlatform(){
